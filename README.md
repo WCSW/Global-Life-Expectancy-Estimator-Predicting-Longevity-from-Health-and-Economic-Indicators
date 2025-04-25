@@ -1,5 +1,5 @@
 # Global-Life-Expectancy-Estimator-Predicting-Longevity-from-Health-and-Economic-Indicators
-# Life Expectancy Estimator: Predicting Longevity from Global Indicators
+
 
 ## 🌍 Overview
 This project predicts **life expectancy** using global health, demographic, and economic indicators. It demonstrates advanced regression modeling, data preprocessing, model evaluation, and explainability.
